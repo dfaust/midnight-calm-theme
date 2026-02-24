@@ -12,7 +12,7 @@
 		"list.dropBackground": "#383B3D",
 		"activityBarBadge.background": "#f6d279",
         "activityBarBadge.foreground": "#000000",
-        "statusBar.background": "#4682b0",
+        "statusBar.background": "#2d5a8e",
 		"sideBarTitle.foreground": "#BBBBBB",
 		"input.placeholderForeground": "#A6A6A6",
 		"menu.background": "#252526",
@@ -208,7 +208,7 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#e48d7e"
 			}
 		},
 		{
@@ -230,7 +230,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#e48d7e"
 			}
 		},
 		{
